@@ -5,7 +5,7 @@ Simulation-based relationship between predator (blue squares) and prey/plant (gr
 Controls:
 - [Space] - Pause/start
 - [N] - Advance 1 generation (only if it´s paused)
-- [X] - Random reset
+- [ X ] - Random reset
 - [ESC] - Exit
 - [F] - Alternate fullscreen
 - [Left mouse click] - Adds a plant
