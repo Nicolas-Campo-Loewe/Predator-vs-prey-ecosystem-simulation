@@ -20,3 +20,6 @@ Pameters and adjustments:
 - [I/K] - +/- Energetic reproduction threeshold
 - [O/L] - +/- Predator reproduction cost
 - [+/-] - +/- Generations per second
+
+CODE SHOWCASE IN THE FOLLOWING VIDEO
+https://www.youtube.com/watch?v=xU7l-ako1FA
