@@ -2,6 +2,9 @@
 
 Simulation-based relationship between predator (blue squares) and prey/plant (green squares) on a simple grid. Periodic fluctuations are formed; stability depends on selected parameters.
 
+Code version:
+-2.0-
+
 Controls:
 - [Space] - Pause/start
 - [N] - Advance 1 generation (only if paused)
